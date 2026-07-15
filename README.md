@@ -57,22 +57,29 @@ java Table
 ```
 
 ---
-
 ## Sample Execution
+
+### Input 1
 
 ```
 Enter array size (for P×P array): 7
+```
 
-Generated 2D array:
-![Sample input](https://github.com/user-attachments/assets/b6cc5de9-11b6-4d8c-95d4-be43a45db5d8)
-...
+### Generated 2D Array
 
+![Generated Table](https://github.com/user-attachments/assets/b6cc5de9-11b6-4d8c-95d4-be43a45db5d8)
+
+### Input 2
+
+```
 Enter a number to highlight (even number 2–16): 12
+```
 
-Array with 12 highlighted:
-...
-![Sample output](https://github.com/user-attachments/assets/c06b0013-eda2-4ffa-82a9-f9d59c36b02c")
+### Output
 
+![Highlighted Table](https://github.com/user-attachments/assets/c06b0013-eda2-4ffa-82a9-f9d59c36b02c)
+
+```
 Number 12 appeared 9 time(s)
 ```
 
