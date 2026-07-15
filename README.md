@@ -61,18 +61,17 @@ java Table
 ## Sample Execution
 
 ```
-Enter array size (for P×P array): 5
+Enter array size (for P×P array): 7
 
 Generated 2D array:
-<img width="578" height="612" alt="image" src="https://github.com/user-attachments/assets/afac64be-2c84-4a4e-a095-c27c2beab377" />
-
+![Sample input](https://github.com/user-attachments/assets/b6cc5de9-11b6-4d8c-95d4-be43a45db5d8)
 ...
 
 Enter a number to highlight (even number 2–16): 12
 
 Array with 12 highlighted:
 ...
-<img width="578" height="612" alt="image" src="https://github.com/user-attachments/assets/c06b0013-eda2-4ffa-82a9-f9d59c36b02c" />
+![Sample output](https://github.com/user-attachments/assets/c06b0013-eda2-4ffa-82a9-f9d59c36b02c")
 
 Number 12 appeared 9 time(s)
 ```
