@@ -26,7 +26,7 @@ public class Table {
 
         while (true) {
 
-            System.out.print("Enter array size (for P×P array): ");
+            System.out.print("Enter array size (for PxP array): ");
 
             if (!sc.hasNextInt()) {
                 System.out.println("Invalid input. Please enter an integer.");
@@ -67,7 +67,7 @@ public class Table {
 
         while (true) {
 
-            System.out.print("\nEnter a number to highlight (even number 2–16): ");
+            System.out.print("\nEnter a number to highlight (even number 2-16): ");
 
             if (!sc.hasNextInt()) {
                 System.out.println("Invalid input. Please enter an integer.");
